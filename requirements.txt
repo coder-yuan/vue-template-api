@@ -2,7 +2,7 @@ celery==4.3.0
 Flask==1.1.1
 Flask-Bcrypt==0.7.1
 Flask-Caching==1.8.0
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 Flask-HTTPBasicAuth==1.0.1
 Flask-json-schema==0.0.5
 Flask-JWT-Extended==3.24.1
