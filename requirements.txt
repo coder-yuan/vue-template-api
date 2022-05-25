@@ -11,7 +11,7 @@ Flask-SQLAlchemy==2.4.1
 Flask-Uploads==0.2.1
 jsonpickle==1.2
 loguru==0.3.2
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pypinyin==0.36.0
 redis==3.3.11
